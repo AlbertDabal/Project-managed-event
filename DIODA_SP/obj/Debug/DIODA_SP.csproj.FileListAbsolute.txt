@@ -1,0 +1,13 @@
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\bin\Debug\DIODA_SP.exe.config
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\bin\Debug\DIODA_SP.exe
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\bin\Debug\DIODA_SP.pdb
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.csprojAssemblyReference.cache
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.Properties.Resources.resources
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.csproj.GenerateResource.cache
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.csproj.CoreCompileInputs.cache
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.exe
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.pdb
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.WYNIK_DIODA.resources
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.DIODA.resources
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\bin\Debug\MySql.Data.dll
+D:\Albert\pulpit\DIODA_SP\DIODA_SP\obj\Debug\DIODA_SP.csproj.CopyComplete
